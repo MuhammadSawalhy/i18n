@@ -1318,5 +1318,10 @@
         "term": "WINDOW",
         "wAR": "نافذة",
         "wEN": "window"
+    },
+    {
+        "term": "PROMPT",
+        "wAR": "مِحث",
+        "wEN": "prompt"
     }
 ]
