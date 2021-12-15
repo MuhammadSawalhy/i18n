@@ -1105,6 +1105,11 @@
         "wEN": "shortcut"
     },
     {
+        "term": "SHELL",
+        "wAR": "صدفة",
+        "wEN": "shell"
+    },
+    {
         "term": "SIGN_UP",
         "wAR": "تسجيل",
         "wEN": [
